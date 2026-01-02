@@ -1,4 +1,4 @@
-# AnimeFaceCropper
+# anime-face-cropper
 アニメ画像から顔を検出し、指定サイズに切り抜くプログラム
 
 ## 機能概要
